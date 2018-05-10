@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "227994229958",
+    "firebase_url": "https://tweeter-clone-de384.firebaseio.com",
+    "project_id": "tweeter-clone-de384",
+    "storage_bucket": "tweeter-clone-de384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227994229958:android:610f2f72ef8a32d5",
+        "android_client_info": {
+          "package_name": "com.example.matangenezia.tweeterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227994229958-jlh1n0qqmvkpk2mnhpvb69hbs4ufls9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matangenezia.tweeterclone",
+            "certificate_hash": "9267f9e5f6db7c629ed36f695c2de45bbc6fc4cb"
+          }
+        },
+        {
+          "client_id": "227994229958-ke5vvhlv21ashdfs18kevhgi94tushn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlXttKMuZ1RUq766hTnY3gpLniv3AHYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227994229958-ke5vvhlv21ashdfs18kevhgi94tushn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

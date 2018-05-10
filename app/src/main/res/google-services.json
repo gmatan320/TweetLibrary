@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "227994229958",
+    "firebase_url": "https://tweeter-clone-de384.firebaseio.com",
+    "project_id": "tweeter-clone-de384",
+    "storage_bucket": "tweeter-clone-de384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227994229958:android:610f2f72ef8a32d5",
+        "android_client_info": {
+          "package_name": "com.example.matangenezia.tweeterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227994229958-ke5vvhlv21ashdfs18kevhgi94tushn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlXttKMuZ1RUq766hTnY3gpLniv3AHYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
